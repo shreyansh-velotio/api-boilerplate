@@ -1,8 +1,8 @@
 {
-  "name": "bookmymovie",
+  "name": "api-boilerplate",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS api boilerplate",
+  "author": "Shreyansh Shrey",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
